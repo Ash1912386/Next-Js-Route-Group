@@ -1,9 +1,9 @@
 import Image from "next/image";
 
-export default function Home() {
+export default function About() {
   return (
     <div>
-      <h1>Route Group</h1>
+      <h1>About Page</h1>
     </div>
   );
 }
